@@ -1,3 +1,5 @@
+package q1;
+
 public class Distance {
 
     private PointOfInterest p1;

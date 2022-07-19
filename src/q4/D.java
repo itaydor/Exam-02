@@ -1,4 +1,4 @@
-package q2;
+package q4;
 
 public class D extends C{
 }

@@ -1,3 +1,5 @@
+package q1;
+
 public class Location {
 
     private double x;
