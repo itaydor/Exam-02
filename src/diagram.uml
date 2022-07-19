@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="292.5024984384761" y="146.03404122423478">Path</node>
+    <node x="367.5" y="-202.0">ServicePoint</node>
+    <node x="1006.7857589006871" y="-628.0">Area</node>
+    <node x="281.28013741411615" y="112.84853216739532">AreaUtil</node>
+    <node x="683.3863210493441" y="-260.0986883198001">ActivityPoint</node>
+    <node x="370.0" y="-628.0">PointOfInterest</node>
+    <node x="298.50249843847604" y="124.34853216739532">PointException</node>
+    <node x="281.2801374141161" y="112.84853216739532">Main</node>
+    <node x="691.7039350405996" y="-628.0">Location</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ActivityPoint" target="PointOfInterest" relationship="GENERALIZATION">
+      <point x="0.0" y="-128.0" />
+      <point x="851.8863210493441" y="-300.0" />
+      <point x="500.0" y="-300.0" />
+      <point x="0.0" y="128.0" />
+    </edge>
+    <edge source="ServicePoint" target="PointOfInterest" relationship="GENERALIZATION">
+      <point x="0.0" y="-62.0" />
+      <point x="0.0" y="128.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="0.632806324110672" showDependencies="false" x="1294.0" y="-320.0" />
+  <SelectedNodes>
+    <node>ActivityPoint</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
